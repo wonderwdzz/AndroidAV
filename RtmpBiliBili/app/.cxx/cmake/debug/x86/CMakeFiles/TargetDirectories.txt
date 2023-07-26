@@ -1,0 +1,6 @@
+D:/Code/TestApp/RtmpBiliBili/app/.cxx/cmake/debug/x86/CMakeFiles/native-lib.dir
+D:/Code/TestApp/RtmpBiliBili/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/Code/TestApp/RtmpBiliBili/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+D:/Code/TestApp/RtmpBiliBili/app/.cxx/cmake/debug/x86/librtmp/CMakeFiles/rtmp.dir
+D:/Code/TestApp/RtmpBiliBili/app/.cxx/cmake/debug/x86/librtmp/CMakeFiles/edit_cache.dir
+D:/Code/TestApp/RtmpBiliBili/app/.cxx/cmake/debug/x86/librtmp/CMakeFiles/rebuild_cache.dir

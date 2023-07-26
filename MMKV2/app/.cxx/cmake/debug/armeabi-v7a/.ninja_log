@@ -1,0 +1,5 @@
+# ninja log v5
+2	423	711799999	CMakeFiles/native-lib.dir/native-lib.cpp.o	88892be15392baa0
+8	431	711799999	CMakeFiles/native-lib.dir/ProtoBuf.cpp.o	4ee8e22e28f2e707
+11	505	711799999	CMakeFiles/native-lib.dir/MMKV.cpp.o	481a8268faf33574
+505	585	711799999	D:/Code/TestApp/MMKV2/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	1b9cb0d490dcde76

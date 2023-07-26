@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Code/TestApp/WDFace/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/Code/TestApp/WDFace/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -LD:/Code/TestApp/WDFace/app/src/main/cpp/libs/armeabi-v7a -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\Code\\TestApp\\WDFace\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\Code\\TestApp\\WDFace\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

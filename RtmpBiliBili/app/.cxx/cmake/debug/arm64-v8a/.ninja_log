@@ -1,0 +1,11 @@
+# ninja log v5
+0	135	707714500	librtmp/CMakeFiles/rtmp.dir/log.c.o	d6bbf7e2b39a0e75
+12	139	707714500	librtmp/CMakeFiles/rtmp.dir/hashswf.c.o	afc9e31dfd661947
+21	141	707714500	librtmp/CMakeFiles/rtmp.dir/parseurl.c.o	40fd5d10033b531f
+7	157	707714500	librtmp/CMakeFiles/rtmp.dir/amf.c.o	fa93a40a350289f6
+17	229	707714500	librtmp/CMakeFiles/rtmp.dir/rtmp.c.o	dcb872949fbfea77
+4	234	707714500	CMakeFiles/native-lib.dir/native-lib.cpp.o	3e57fec11de31a7b
+229	315	707714501	librtmp/librtmp.a	abac3d28b993c671
+315	373	707714501	D:/Code/TestApp/RtmpBiliBili/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	b07b9090fd9012ea
+2	293	707799843	CMakeFiles/native-lib.dir/native-lib.cpp.o	3e57fec11de31a7b
+293	393	707799843	D:/Code/TestApp/RtmpBiliBili/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	b07b9090fd9012ea

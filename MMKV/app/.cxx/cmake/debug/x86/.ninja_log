@@ -1,0 +1,9 @@
+# ninja log v5
+0	166	711600828	CMakeFiles/native-lib.dir/native-lib.cpp.o	ad3c3015126fa22e
+167	206	711600828	D:/Code/TestApp/MMKV/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	ba7fda7ae5372bcc
+0	3	0	clean	beed99a72c45ca3f
+1	164	711600918	CMakeFiles/native-lib.dir/native-lib.cpp.o	ad3c3015126fa22e
+164	204	711600918	D:/Code/TestApp/MMKV/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	ba7fda7ae5372bcc
+0	4	0	clean	beed99a72c45ca3f
+1	168	711601816	CMakeFiles/native-lib.dir/native-lib.cpp.o	ad3c3015126fa22e
+168	211	711601816	D:/Code/TestApp/MMKV/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	ba7fda7ae5372bcc

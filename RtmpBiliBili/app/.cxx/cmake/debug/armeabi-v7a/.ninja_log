@@ -1,0 +1,11 @@
+# ninja log v5
+0	187	707714237	CMakeFiles/native-lib.dir/native-lib.cpp.o	a78cad691256f47c
+11	225	707714500	librtmp/CMakeFiles/rtmp.dir/log.c.o	bc5de81148502f39
+22	228	707714500	librtmp/CMakeFiles/rtmp.dir/parseurl.c.o	ea81c23efe951850
+4	231	707714500	librtmp/CMakeFiles/rtmp.dir/hashswf.c.o	8fa972a90a381a3c
+1	253	707714500	librtmp/CMakeFiles/rtmp.dir/amf.c.o	54515ef50973adb8
+16	316	707714500	librtmp/CMakeFiles/rtmp.dir/rtmp.c.o	aa95d5c0787b8317
+316	474	707714500	librtmp/librtmp.a	9d2e84460f5f776a
+474	543	707714500	D:/Code/TestApp/RtmpBiliBili/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8772124559066cda
+2	219	707799844	CMakeFiles/native-lib.dir/native-lib.cpp.o	a78cad691256f47c
+219	346	707799844	D:/Code/TestApp/RtmpBiliBili/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	8772124559066cda

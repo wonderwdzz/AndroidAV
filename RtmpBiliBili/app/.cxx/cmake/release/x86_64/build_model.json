@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Code\\TestApp\\RtmpBiliBili",
+      "sdkFolder": "D:\\Tool\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app",
+      "makeFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\.cxx",
+      "cxxFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx",
+      "ndkFolder": "D:\\Tool\\sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release\\x86_64",
+  "jsonFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64",
+  "objFolder": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64",
+  "buildCommandFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release\\x86_64\\build_command.txt",
+  "buildOutputFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release\\x86_64\\build_output.txt",
+  "modelOutputFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cxx\\release\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\release\\x86_64\\compile_commands.json"
+}

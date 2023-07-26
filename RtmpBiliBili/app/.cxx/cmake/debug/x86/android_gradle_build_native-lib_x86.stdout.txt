@@ -1,0 +1,14 @@
+ninja: Entering directory `D:\Code\TestApp\RtmpBiliBili\app\.cxx\cmake\debug\x86'
+[1/8] Building C object librtmp/CMakeFiles/rtmp.dir/hashswf.c.o
+[2/8] Building C object librtmp/CMakeFiles/rtmp.dir/parseurl.c.o
+[3/8] Building C object librtmp/CMakeFiles/rtmp.dir/log.c.o
+[4/8] Building C object librtmp/CMakeFiles/rtmp.dir/amf.c.o
+In file included from D:/Code/TestApp/RtmpBiliBili/app/src/main/cpp/librtmp/amf.c:33:
+D:/Code/TestApp/RtmpBiliBili/app/src/main/cpp/librtmp/bytes.h:74:2: warning: "Float word order not defined, assuming the same as byte order!" [-W#warnings]
+#warning "Float word order not defined, assuming the same as byte order!"
+ ^
+1 warning generated.
+[5/8] Building C object librtmp/CMakeFiles/rtmp.dir/rtmp.c.o
+[6/8] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+[7/8] Linking C static library librtmp\librtmp.a
+[8/8] Linking CXX shared library D:\Code\TestApp\RtmpBiliBili\app\build\intermediates\cmake\debug\obj\x86\libnative-lib.so

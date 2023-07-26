@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Code\\TestApp\\MMKV2",
+      "sdkFolder": "D:\\Tool\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Code\\TestApp\\MMKV2\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\Code\\TestApp\\MMKV2\\app",
+      "makeFile": "D:\\Code\\TestApp\\MMKV2\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\Code\\TestApp\\MMKV2\\.cxx",
+      "cxxFolder": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx",
+      "ndkFolder": "D:\\Tool\\sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "D:\\Code\\TestApp\\MMKV2\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\Code\\TestApp\\MMKV2\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64",
+  "jsonFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64",
+  "objFolder": "D:\\Code\\TestApp\\MMKV2\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64",
+  "buildCommandFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\\build_command.txt",
+  "buildOutputFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\\build_output.txt",
+  "modelOutputFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cxx\\release\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\\compile_commands.json"
+}

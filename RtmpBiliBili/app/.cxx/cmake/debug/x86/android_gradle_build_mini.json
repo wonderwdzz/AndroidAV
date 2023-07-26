@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "D:\\Code\\TestApp\\RtmpBiliBili\\app\\src\\main\\cpp\\librtmp\\CMakeLists.txt",
+    "D:\\Tool\\sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Tool\\sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\Code\\TestApp\\RtmpBiliBili\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Program Files\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Program Files\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "rtmp-Debug-x86": {
+      "artifactName": "rtmp",
+      "buildCommand": "D:\\Program Files\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\debug\\x86\" rtmp",
+      "abi": "x86",
+      "output": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\debug\\x86\\librtmp\\librtmp.a"
+    },
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "D:\\Program Files\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Code\\TestApp\\RtmpBiliBili\\app\\.cxx\\cmake\\debug\\x86\" native-lib",
+      "abi": "x86",
+      "output": "D:\\Code\\TestApp\\RtmpBiliBili\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}

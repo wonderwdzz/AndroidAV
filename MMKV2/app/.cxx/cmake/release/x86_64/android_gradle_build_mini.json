@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "D:\\Tool\\sdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Tool\\sdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\Code\\TestApp\\MMKV2\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Tool\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Tool\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "D:\\Tool\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Code\\TestApp\\MMKV2\\app\\.cxx\\cmake\\release\\x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "D:\\Code\\TestApp\\MMKV2\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libnative-lib.so"
+    }
+  }
+}

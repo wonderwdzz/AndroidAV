@@ -1,0 +1,20 @@
+Executable : D:\Program Files\Android\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\Code\TestApp\RtmpBiliBili\app\src\main\cpp
+-BD:\Code\TestApp\RtmpBiliBili\app\.cxx\cmake\release\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-23
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Code\TestApp\RtmpBiliBili\app\build\intermediates\cmake\release\obj\x86
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Tool\sdk\ndk\21.3.6528147
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_SYSTEM_VERSION=23
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=D:\Tool\sdk\ndk\21.3.6528147
+-DCMAKE_TOOLCHAIN_FILE=D:\Tool\sdk\ndk\21.3.6528147\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=D:\Program Files\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

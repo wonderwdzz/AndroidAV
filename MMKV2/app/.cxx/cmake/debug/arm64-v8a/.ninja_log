@@ -1,0 +1,5 @@
+# ninja log v5
+4	241	711799999	CMakeFiles/native-lib.dir/native-lib.cpp.o	78685e1f9ceddd7e
+3	245	711799999	CMakeFiles/native-lib.dir/ProtoBuf.cpp.o	b8556113aea4b563
+1	333	711800000	CMakeFiles/native-lib.dir/MMKV.cpp.o	765fb6fb391d0525
+333	492	711800000	D:/Code/TestApp/MMKV2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	d3db4bac7cfdb4cc
