@@ -1,0 +1,55 @@
+[
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/include -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/lib -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/lib -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\AudioChannel.cpp.o -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\AudioChannel.cpp",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\AudioChannel.cpp"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/include -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/lib -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/lib -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\JavaCallHelper.cpp.o -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\JavaCallHelper.cpp",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\JavaCallHelper.cpp"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/include -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/lib -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/lib -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\VideoChannel.cpp.o -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\VideoChannel.cpp",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\VideoChannel.cpp"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/include -ID:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/x264/armeabi-v7a/lib -LD:/Code/TestApp/BiliRtmp/app/src/main/cpp/faac/armeabi-v7a/lib -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC   -o librtmp\\CMakeFiles\\rtmp.dir\\amf.c.o   -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\amf.c",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\amf.c"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC   -o librtmp\\CMakeFiles\\rtmp.dir\\hashswf.c.o   -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\hashswf.c",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\hashswf.c"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC   -o librtmp\\CMakeFiles\\rtmp.dir\\log.c.o   -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\log.c",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\log.c"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC   -o librtmp\\CMakeFiles\\rtmp.dir\\parseurl.c.o   -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\parseurl.c",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\parseurl.c"
+},
+
+{
+  "directory": "D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "D:\\Tool\\sdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi26 --gcc-toolchain=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Tool/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC   -o librtmp\\CMakeFiles\\rtmp.dir\\rtmp.c.o   -c D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\rtmp.c",
+  "file": "D:\\Code\\TestApp\\BiliRtmp\\app\\src\\main\\cpp\\librtmp\\rtmp.c"
+}
+]

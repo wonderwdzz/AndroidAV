@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wd.bilirtmp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:4:5-65
+11-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:5:5-79
+12-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:5:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:6:5-80
+13-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:7:5-66
+14-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:7:22-64
+15    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+15-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:8:5-71
+15-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:8:22-68
+16
+17    <application
+17-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:9:5-24:19
+18        android:allowBackup="true"
+18-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:10:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] C:\Users\45861\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:11:9-43
+22        android:label="@string/app_name"
+22-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:12:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:13:9-54
+24        android:supportsRtl="true"
+24-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:14:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:15:9-40
+27        <activity android:name="com.wd.bilirtmp.cameraxpush.MainActivity" >
+27-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:16:9-23:20
+27-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:16:19-59
+28
+29            <!-- <activity android:name=".MainActivity"> -->
+30            <intent-filter>
+30-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:18:13-22:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:19:17-69
+31-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:19:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:21:17-77
+33-->D:\Code\TestApp\BiliRtmp\app\src\main\AndroidManifest.xml:21:27-74
+34            </intent-filter>
+35        </activity>
+36
+37        <provider
+37-->[androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\45861\.gradle\caches\transforms-2\files-2.1\c4e47a7be37be67c9860efc5337e3095\camera-camera2-1.0.0-alpha05\AndroidManifest.xml:25:9-30:43
+38            android:name="androidx.camera.camera2.impl.Camera2Initializer"
+38-->[androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\45861\.gradle\caches\transforms-2\files-2.1\c4e47a7be37be67c9860efc5337e3095\camera-camera2-1.0.0-alpha05\AndroidManifest.xml:26:13-75
+39            android:authorities="com.wd.bilirtmp.camerax-init"
+39-->[androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\45861\.gradle\caches\transforms-2\files-2.1\c4e47a7be37be67c9860efc5337e3095\camera-camera2-1.0.0-alpha05\AndroidManifest.xml:27:13-64
+40            android:exported="false"
+40-->[androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\45861\.gradle\caches\transforms-2\files-2.1\c4e47a7be37be67c9860efc5337e3095\camera-camera2-1.0.0-alpha05\AndroidManifest.xml:28:13-37
+41            android:initOrder="100"
+41-->[androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\45861\.gradle\caches\transforms-2\files-2.1\c4e47a7be37be67c9860efc5337e3095\camera-camera2-1.0.0-alpha05\AndroidManifest.xml:29:13-36
+42            android:multiprocess="true" />
+42-->[androidx.camera:camera-camera2:1.0.0-alpha05] C:\Users\45861\.gradle\caches\transforms-2\files-2.1\c4e47a7be37be67c9860efc5337e3095\camera-camera2-1.0.0-alpha05\AndroidManifest.xml:30:13-40
+43    </application>
+44
+45</manifest>

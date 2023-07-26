@@ -1,0 +1,14 @@
+# ninja log v5
+1	138	710503970	CMakeFiles/native-lib.dir/AudioChannel.cpp.o	6650f3935a65a8a
+5	160	710503970	CMakeFiles/native-lib.dir/JavaCallHelper.cpp.o	af23e225145cd467
+19	173	710503970	librtmp/CMakeFiles/rtmp.dir/log.c.o	63e17865b423dba1
+17	179	710503970	librtmp/CMakeFiles/rtmp.dir/hashswf.c.o	c1a096ed1b1b72b3
+8	182	710503970	CMakeFiles/native-lib.dir/VideoChannel.cpp.o	a18942c3cd734b5d
+22	182	710503970	librtmp/CMakeFiles/rtmp.dir/parseurl.c.o	2b0bb33db608bdac
+25	211	710503970	librtmp/CMakeFiles/rtmp.dir/amf.c.o	b1840fccb692de7e
+14	338	710503970	librtmp/CMakeFiles/rtmp.dir/rtmp.c.o	412a7d704379aa0f
+338	397	710503970	librtmp/librtmp.a	52a7aec85379e106
+12	472	710503970	CMakeFiles/native-lib.dir/native-lib.cpp.o	8d579c013549b9ff
+473	539	710503971	D:/Code/TestApp/BiliRtmp/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	fd56e23e1e6fe9b2
+1	270	710504453	CMakeFiles/native-lib.dir/native-lib.cpp.o	8d579c013549b9ff
+270	339	710504453	D:/Code/TestApp/BiliRtmp/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	fd56e23e1e6fe9b2

@@ -1,0 +1,6 @@
+D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a/librtmp/CMakeFiles/rtmp.dir
+D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a/librtmp/CMakeFiles/edit_cache.dir
+D:/Code/TestApp/BiliRtmp/app/.cxx/cmake/debug/armeabi-v7a/librtmp/CMakeFiles/rebuild_cache.dir
